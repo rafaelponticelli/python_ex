@@ -1,6 +1,3 @@
-# entradeas de dados
-from re import M
-
 #entrada de dados
 altura = float(input("Digite Sua Altura Para Saber Seu Peso Ideal :"))
 #formula para homens 
